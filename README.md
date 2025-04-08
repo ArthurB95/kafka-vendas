@@ -45,7 +45,7 @@ $ mvn clean install
 
 ## 🛠 Technologies
 
-The technology used for this application was ReactJS, Vercel, Next.js, below is the official documentation:
+The technology used for this application was JAVA and KAFKA, below is the official documentation:
 
 -   **[JAVA](https://www.java.com/pt-BR/)**
 -   **[KAFKA](https://kafka.apache.org/)**

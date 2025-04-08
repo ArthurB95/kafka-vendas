@@ -2,12 +2,12 @@
 </div>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ArthurB95//kafka-vendas?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ArthurB95/kafka-vendas?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurB95//kafka-vendas">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurB95/kafka-vendas">
   
-  <a href="https://github.com/ArthurB95//kafka-vendas/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ArthurB95//kafka-vendas">
+  <a href="https://github.com/ArthurB95/kafka-vendas/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ArthurB95/kafka-vendas">
   </a>
     
 </p>
